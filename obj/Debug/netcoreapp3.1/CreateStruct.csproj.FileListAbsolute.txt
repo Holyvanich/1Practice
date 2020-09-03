@@ -1,0 +1,11 @@
+C:\Users\student\source\repos\CreateStruct\CreateStruct\bin\Debug\netcoreapp3.1\CreateStruct.exe
+C:\Users\student\source\repos\CreateStruct\CreateStruct\bin\Debug\netcoreapp3.1\CreateStruct.deps.json
+C:\Users\student\source\repos\CreateStruct\CreateStruct\bin\Debug\netcoreapp3.1\CreateStruct.runtimeconfig.json
+C:\Users\student\source\repos\CreateStruct\CreateStruct\bin\Debug\netcoreapp3.1\CreateStruct.runtimeconfig.dev.json
+C:\Users\student\source\repos\CreateStruct\CreateStruct\bin\Debug\netcoreapp3.1\CreateStruct.dll
+C:\Users\student\source\repos\CreateStruct\CreateStruct\bin\Debug\netcoreapp3.1\CreateStruct.pdb
+C:\Users\student\source\repos\CreateStruct\CreateStruct\obj\Debug\netcoreapp3.1\CreateStruct.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\CreateStruct\CreateStruct\obj\Debug\netcoreapp3.1\CreateStruct.AssemblyInfo.cs
+C:\Users\student\source\repos\CreateStruct\CreateStruct\obj\Debug\netcoreapp3.1\CreateStruct.dll
+C:\Users\student\source\repos\CreateStruct\CreateStruct\obj\Debug\netcoreapp3.1\CreateStruct.pdb
+C:\Users\student\source\repos\CreateStruct\CreateStruct\obj\Debug\netcoreapp3.1\CreateStruct.csprojAssemblyReference.cache
